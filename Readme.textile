@@ -1,6 +1,6 @@
 h1. Maven repository
 
-h2. Repositories configuration
+h2. Configuration
 
 To add this repository to your maven project, add the following lines :
 
